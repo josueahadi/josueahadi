@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **a tech startup**
 
-- 🌱 I’m learning **React**
-
 - 🤝 I’m looking for help with **creating a business model**
+  
+- 🌱 I’m learning **React**
 
 - 💬 Ask me about **javascript, typescript, python**
 
