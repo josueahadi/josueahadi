@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **ahadihjosue@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ahadijosue/](https://www.linkedin.com/in/ahadijosue/)
+- 📄 Know about my experiences at [https://www.linkedin.com/in/ahadijosue/](https://www.linkedin.com/in/ahadijosue/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
