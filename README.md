@@ -1,5 +1,5 @@
 <h1 align="left">Hi there👋, I'm Habib</h1>
-<h3 align="left">A passionate frontend developer from Rwanda</h3>
+<h3 align="left">Frontend Developer</h3>
 
 <!--
 **josueahadi/josueahadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
