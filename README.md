@@ -15,18 +15,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-- 🔭 I’m currently working on **a tech startup**
-
-- 🤝 I’m looking for help with **creating a business model**
-  
+ 
 - 🌱 I’m learning **React**
 
 - 💬 Ask me about **javascript, typescript, python**
 
 - 📫 How to reach me **ahadihjosue@gmail.com**
 
-- 📄 Know about my experiences at [https://www.linkedin.com/in/ahadijosue/](https://www.linkedin.com/in/ahadijosue/)
+- 📄 Learn more about my experiences at [https://www.linkedin.com/in/ahadijosue/](https://www.linkedin.com/in/ahadijosue/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
