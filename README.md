@@ -1,9 +1,7 @@
 Full stack developer. Building user-centric web applications.
 
 ### 🌱 Currently Learning
-- Flutter
-- Node.js
-- Next.js
+- Flutter, Node.js, Next.js
 
 ### 🛠️ Stack
 - **Frontend:** React, Next.js, TypeScript, Tailwind, Flutter
