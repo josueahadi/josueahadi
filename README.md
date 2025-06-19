@@ -1,19 +1,13 @@
-<!--
-## 👋 Hi, I'm Habib Josue!
-
-### 🚀 About Me
-I'm a full stack developer with a passion for building user-centric web applications.
+Full stack developer. Building user-centric web applications.
 
 ### 🌱 Currently Learning
 - Flutter
-- Backend basics with Node.js
-- Next.js
-
+- Node.js
 
 ### 🛠️ Stack
 - **Frontend:** React, Next.js, TypeScript, Tailwind, Flutter
-- **Backend:** FastAPI
-
+- **Backend:** FastAPI, Django, AWS, PostgreSQL
+<!-- 
 ### 📊 Highlights 
 
 <!-- <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=josueahadi&show_icons=true&locale=en" alt="josueahadi" /></p> -->
