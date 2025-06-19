@@ -6,7 +6,7 @@ Full stack developer. Building user-centric web applications.
 
 ### 🛠️ Stack
 - **Frontend:** React, Next.js, TypeScript, Tailwind, Flutter
-- **Backend:** FastAPI, Django, AWS, PostgreSQL
+- **Backend:** Python, FastAPI, Django, AWS, PostgreSQL
 <!-- 
 ### 📊 Highlights 
 
