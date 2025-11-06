@@ -15,7 +15,7 @@ I am a Full-Stack Software Engineer and Technical Liaison with a proven ability 
 ## 🛠️ Technologies & Tools
 
 - **Frontend:** React.js, Next.js, Tailwind CSS, Sass, TypeScript, JavaScript
-- **Backend:** Node.js, Django, Next.js, MongoDB, MySQL, PostgreSQL, Firebase
+- **Backend:** Node.js, Django, Nest.js, MongoDB, MySQL, PostgreSQL, Firebase
 - **Mobile Development:** Flutter, Firebase
 - **Cloud & DevOps:** AWS, Microsoft Azure, Docker, CI/CD, Git, GitHub, GitLab
 - **Other Tools:** Google Tag Manager, Notion, Clickup, Trello, Figma, Thunkable
