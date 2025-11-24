@@ -35,5 +35,5 @@ I am a Full-Stack Software Engineer and Technical Liaison with a proven ability 
 
 ---
 
-**Feel free to explore my repositories and reach out if you have any questions or project ideas.**
+**Sadly, you can't see the private stuff. But there are some public repos you can peek at. Reach out if you need my expertise.**
 
