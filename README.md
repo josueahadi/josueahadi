@@ -8,7 +8,6 @@ Fun Fact: AOT is the best anime!
 
 I am a Full-Stack Software Engineer and Technical Liaison with a proven ability to bridge the gap between business objectives, client requirements, and development execution. My experience spans driving startup success to rapidly mastering new technologies in fast-paced environments. I focus on building efficient, scalable, and user-friendly solutions while managing communications across clients, developers, and third-party vendors.
 
-- 🌍 Based in Scotland, United Kingdom
 - 🎓 Final Year Bachelor's degree in Software Engineering, Student at the African Leadership University in Kigali, Rwanda
 - 💬 Ask me about **n8n, React.js, FastAPI**
 
