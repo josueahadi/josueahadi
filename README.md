@@ -1,38 +1,39 @@
 # Hi, I'm Josué
 
-**Experienced Full-Stack Developer | PO | Business Analyst | Client Communications Specialist**
-
-Fun Fact: AOT is the best anime!
+**Full Stack Developer | Fintech & AI Integration**
 
 ## About Me
 
-I am a Full-Stack Software Engineer and Technical Liaison with a proven ability to bridge the gap between business objectives, client requirements, and development execution. My experience spans driving startup success to rapidly mastering new technologies in fast-paced environments. I focus on building efficient, scalable, and user-friendly solutions while managing communications across clients, developers, and third-party vendors.
+Full Stack Developer building fintech platforms that process real payments across multiple countries. I ship production code where bugs mean real money lost—digital wallets, transaction engines, refund systems, LLM-powered automation.
 
-- 🎓 Final Year Bachelor's degree in Software Engineering, Student at the African Leadership University in Kigali, Rwanda
-- 💬 Ask me about **n8n, React.js, FastAPI**
+Currently finishing my BSc in Software Engineering at African Leadership University (Rwanda). Previously completed A-Levels at Gordonstoun School, Scotland.
 
-## Technologies & Tools
+## Tech Stack
 
-- **Frontend:** React.js, Next.js, Tailwind CSS, Sass, TypeScript, JavaScript
-- **Backend:** Node.js, Express.js, Nest.js, Django, Python FastAPI, MySQL, PostgreSQL, RabbitMQ, Redis Firebase, MongoDB
-- **Mobile Development:** Flutter, Firebase
-- **Cloud & DevOps:** AWS, Microsoft Azure, Docker, CI/CD, Git, GitHub, GitLab
-- **Other Tools:** Google Tag Manager, Notion, Clickup, Trello, Figma, Thunkable
+**Frontend:** React, Next.js, TypeScript, Tailwind CSS  
+**Backend:** Python (FastAPI, Django), Node.js, Nest.js, PostgreSQL, Redis, NSQ  
+**DevOps:** AWS, Docker, CI/CD, Jaeger, Graylog  
+**AI & Automation:** LLM Integration, Prompt Engineering, n8n
 
-## I'm currently learning
+## Recent Work
 
-- **Node.js (Express), Python (FastAPI), Flutter**
+**[Efashe Customer]()** — Mobile payments platform (Rwanda, Malawi, Zambia)  
+- Revamping backend infrastructure for 35+ microservice ecosystem, transaction engines, and refund state machines
 
-## On my list 
-- Java (Springboot)
+**[Efashe Money](https://money.efashe.rw)** — Digital wallet & micro-loans platform  
+- Frontend Lead (12 months), loan lifecycles, interest calculators, repayment flows
 
-## How to reach me
+**LLM Recruiting Engine** — Resume parsing & auto-grading system  
+- Reduced manual screening time by ~60%
 
-- **Email:** [ahadihjosue@gmail.com](mailto:ahadihjosue@gmail.com)
-- **LinkedIn:** [ahadijosue](https://www.linkedin.com/in/ahadijosue)
-- **Portfolio:** Coming Soon
+**[AfriB2B](https://afrib2b.growrwanda.com)** — B2B marketplace platform (in development)
+
+## Get in Touch
+
+ahadihjosue@gmail.com  
+[LinkedIn](https://www.linkedin.com/in/ahadijosue)  
+[GitLab](https://gitlab.com/habib.josue)
 
 ---
 
-**Sadly, you can't see the private stuff. But there are some public repos you can peek at. Reach out if you need my expertise.**
-
+*Most of my work lives in private repos. Please feel free to reach out if you'd like to discuss.*
