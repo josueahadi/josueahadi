@@ -17,10 +17,10 @@ Currently finishing my BSc in Software Engineering at African Leadership Univers
 
 ## Recent Work
 
-**[Efashe Customer]()** — Mobile payments platform (Rwanda, Malawi, Zambia)  
+**[Efashe Customer](https://www.efashe.com/en/products/mobile-app)** — Mobile payments platform (Rwanda, Malawi, Zambia)  
 - Revamping backend infrastructure for 35+ microservice ecosystem, transaction engines, and refund state machines
 
-**[Efashe Money](https://money.efashe.rw)** — Digital wallet & micro-loans platform  
+**[Efashe Money](https://money.efashe.com)** — Digital wallet & micro-loans platform  
 - Frontend Lead (12 months), loan lifecycles, interest calculators, repayment flows
 
 **LLM Recruiting Engine** — Resume parsing & auto-grading system  
