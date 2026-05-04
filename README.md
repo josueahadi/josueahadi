@@ -4,29 +4,18 @@
 
 ## About Me
 
-Full Stack Developer building fintech platforms that process real payments across multiple countries. I ship production code where bugs mean real money lost—digital wallets, transaction engines, refund systems, LLM-powered automation.
-
-Currently finishing my BSc in Software Engineering at African Leadership University (Rwanda). Previously completed A-Levels at Gordonstoun School, Scotland.
+Full Stack Developer building fintech platforms that process payments across Rwanda, Malawi, and Zambia.
 
 ## Tech Stack
 
 **Frontend:** React, Next.js, TypeScript, Tailwind CSS  
-**Backend:** Python (FastAPI, Django), Node.js, Nest.js, PostgreSQL, Redis, NSQ  
-**DevOps:** AWS, Docker, CI/CD, Jaeger, Graylog  
-**AI & Automation:** LLM Integration, Prompt Engineering, n8n
+**Backend:** Java (Springboot), Python (FastAPI & Django), Node.js, Nest.js, PostgreSQL, Redis, NSQ  
+**DevOps:** AWS, Docker, CI/CD, Jaeger, Graylog, Terraform, Ansible  
+**AI & Automation:** LLM Integration, n8n
 
 ## Recent Work
 
-**[Efashe Customer](https://www.efashe.com/en/products/mobile-app)** — Mobile payments platform (Rwanda, Malawi, Zambia)  
-- Revamping backend infrastructure for 35+ microservice ecosystem, transaction engines, and refund state machines
-
-**[Efashe Money](https://money.efashe.com)** — Digital wallet & micro-loans platform  
-- Frontend Lead (12 months), loan lifecycles, interest calculators, repayment flows
-
-**LLM Recruiting Engine** — Resume parsing & auto-grading system  
-- Reduced manual screening time by ~60%
-
-**[AfriB2B](https://afrib2b.growrwanda.com)** — B2B marketplace platform (in development)
+**[Efashe Money](https://money.efashe.com)** — Digital wallet & micro-loans platform 
 
 ## Get in Touch
 
